@@ -1,0 +1,7 @@
+[target.armv6k-nintendo-3ds]
+linker = "arm-none-eabi-gcc"
+runner = "cargo-run-3ds"
+
+[build]
+target = "armv6k-nintendo-3ds"
+

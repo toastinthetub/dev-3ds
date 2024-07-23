@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "fexplorer",
+    "sockets",
+    "port-scanner", "file-transfer", "software-keyboard", "hello_world",]
+
